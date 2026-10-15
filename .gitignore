@@ -1,0 +1,21 @@
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Original inspection photographs
+photos/
+
+# Generated inspection results
+results/
+results_v5/
+
+# Development versions and backups
+bracket_inspection_v*.py
+*.bak
+*_backup.py
+*_threshold.py
+
+# macOS files
+.DS_Store
